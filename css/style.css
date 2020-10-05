@@ -1,0 +1,149 @@
+* {
+    /* font-family: 'Crimson Text', serif; */
+    font-family: 'Nunito', sans-serif;
+    color: #a1a1a1;
+}
+
+span.sub-nav-brand {
+    font-family: 'Nunito';
+    font-size: 20px;
+    color: #851E3E;
+}
+
+a.nav-link {
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+h5.hero-tag {
+    font-weight: 700;
+    color: #051e3e;
+}
+
+h2.main-hero-tag {
+    font-family: 'Crimson Text';
+    font-weight: bold;
+    color: #051e3e;
+}
+
+p.sub-hero-tag {
+    color: #051e3e;
+}
+
+h3.tag-line {
+    font-family: 'Crimson Text';
+    color: #051e3e;
+    font-weight: bold;
+    margin: 0;
+}
+
+p.about-caption {
+    font-size: 18px;
+}
+
+h3.main-info-tag {
+    font-weight: 600;
+    color: #051e3e;
+    font-size: 40px;
+}
+
+.name {
+    color: #051e3e;
+    font-weight: bold;
+}
+
+.card-testimonial {
+    border-radius: 11px;
+}
+
+.card-testimonial .testimonial-content {
+    min-height: 100px !important;
+}
+
+.card-testimonial h3 {
+    font-size: 22px;
+}
+
+.card-testimonial .testimonials {
+    font-size: 18px;
+    font-weight: 200;
+    color: #6e6e6e;
+    min-height: 160px;
+}
+
+.card-title {
+    color: #051e3e;
+    font-weight: 600;
+}
+
+.my-btn {
+    background-image: linear-gradient(to right, #F4CC69 0%, #F0B50A 51%, #F4CC69 100%)
+}
+
+.my-btn {
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    width: 200px;
+    border-radius: 20px;
+    display: block;
+}
+
+.my-btn:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.lg-btn {
+    background-image: linear-gradient(to right, #F4CC69 0%, #F0B50A 51%, #F4CC69 100%)
+}
+
+.lg-btn {
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    width: 100px;
+    border-radius: 20px;
+    display: block;
+}
+
+.lg-btn:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn-read {
+    background-image: linear-gradient(to right, #F4CC69 0%, #F0B50A 51%, #F4CC69 100%)
+}
+
+.btn-read {
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    width: 100px;
+    border-radius: 20px;
+    display: block;
+}
+
+.btn-read:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+img.my-logo {
+    border-radius: 50px 0 50px 0;
+}
